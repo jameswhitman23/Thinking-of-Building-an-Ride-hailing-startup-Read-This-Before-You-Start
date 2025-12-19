@@ -29,7 +29,7 @@ Here’s why:
 
 ### 1. Drastic Reduction in Time-to-Market
 
-A custom taxi booking script can take anywhere from **8 to 12 months** to develop, test, and deploy. In the fast-moving tech world, that’s an eternity.
+A [custom taxi booking script](https://www.rentallscript.com/taxi-booking-script/) can take anywhere from **8 to 12 months** to develop, test, and deploy. In the fast-moving tech world, that’s an eternity.
 
 An Uber clone script allows you to launch in a matter of **weeks**.
 
@@ -53,7 +53,7 @@ Uber and Lyft spent **billions** perfecting the user journey.
 
 People are already "trained" to use a specific interface — the map, the slider for vehicle types, and the one-tap booking.
 
-A Lyft clone or Uber-like script mirrors these familiar patterns, ensuring your users don't have a learning curve when they download your app.
+A[ Lyft clone](https://www.rentallscript.com/lyft-clone/) or Uber-like script mirrors these familiar patterns, ensuring your users don't have a learning curve when they download your app.
 
 ---
 
@@ -113,7 +113,7 @@ Do your research, choose a white-label provider with a solid reputation, and foc
 
 ### Is it legal to use an Uber clone script?
 
-Yes. An “Uber clone” is a white-label solution that mirrors ride-hailing functionality. As long as the software uses original code and avoids Uber’s branding or proprietary assets, it’s a legal way to build a competing service.
+Yes. An “[Uber clone]([url](https://www.rentallscript.com/uber-clone/))” is a white-label solution that mirrors ride-hailing functionality. As long as the software uses original code and avoids Uber’s branding or proprietary assets, it’s a legal way to build a competing service.
 
 ### Do I own the source code when I buy a clone?
 
